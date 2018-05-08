@@ -1,0 +1,37 @@
+@import models.UserDetails
+
+@(user: UserDetails)
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <title>TweetAnalytics - Profile (@user.getScreenName())</title>
+        <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("img/favicon.png")">
+        <link rel="stylesheet" type="text/css" href="@routes.Assets.versioned("stylesheets/search.css")" />
+        <script src="@routes.Assets.versioned("javascripts/jquery-3.3.1.min.js")"></script>
+            <!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+    </head>
+    <body>
+        <div >
+            <h3>User Profile</h3>
+
+            <p>User name: - @user.getName()</p>
+
+            @if(user.getScreenName()!= null) {
+                <a target="_blank" href="https://twitter.com/@user.getScreenName()">TwitterPage</a>
+            }
+            @if(user.getUserBio()!= null) {
+                <p >Bio: @user.getUserBio()</p>
+            }
+            <p >Followers: @user.getFollowersCount()</p>
+
+            <h3>Last 10 tweets: </h3>
+            @for(tweet <- user.getLastTenTweets()) {
+                <p>* @tweet</p>
+            }
+        </div>
+    </body>
+</html>
+

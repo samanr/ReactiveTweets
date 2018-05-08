@@ -1,0 +1,53 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/2s/bst4nw6d7_lbx73_pr0bq12c0000gn/T/sbt-structure.xml; session clear-all
+clean
+run
+clean
+run
+clean
+update
+compile
+run
+clena
+clean
+update
+all {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets/}root/products {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets/}root/test:products
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/2s/bst4nw6d7_lbx73_pr0bq12c0000gn/T/sbt-structure.xml; session clear-all
+run
+tun
+run
+all {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets_1.6/}root/products {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets_1.6/}root/test:products
+run
+run]
+run
+update
+compile
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/2s/bst4nw6d7_lbx73_pr0bq12c0000gn/T/sbt-structure.xml; session clear-all
+all {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets_1.6/}root/products {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets_1.6/}root/test:products
+clean
+update
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/2s/bst4nw6d7_lbx73_pr0bq12c0000gn/T/sbt-structure.xml; session clear-all
+compile
+run
+conpile
+compile
+run
+compile
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/2s/bst4nw6d7_lbx73_pr0bq12c0000gn/T/sbt-structure1.xml; session clear-all
+all {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets_1.11/}root/products {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets_1.11/}root/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/2s/bst4nw6d7_lbx73_pr0bq12c0000gn/T/sbt-structure.xml; session clear-all
+all {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets_1.11/}root/products {file:/Users/asikandar/Development/Play/Dev/ReactiveTweets_1.11/}root/test:products
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/SAMANR~1/AppData/Local/Temp/sbt-structure1.xml
+compile
+run
+all {file:/C:/Users/Saman%20Rasool/Desktop/Concordia/Courses/SOEN%206441%20Advance%20Programming%20Practices/ReactiveTweets_1.15/}root/products {file:/C:/Users/Saman%20Rasool/Desktop/Concordia/Courses/SOEN%206441%20Advance%20Programming%20Practices/ReactiveTweets_1.15/}root/test:products
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/SAMANR~1/AppData/Local/Temp/sbt-structure.xml
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/SAMANR~1/AppData/Local/Temp/sbt-structure.xml
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/SAMANR~1/AppData/Local/Temp/sbt-structure.xml
+run

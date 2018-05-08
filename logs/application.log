@@ -1,0 +1,141 @@
+2018-04-13 15:43:52,346 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-04-13 15:43:52,422 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev)
+2018-04-13 15:43:53,454 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - Actor initialized...
+2018-04-13 15:43:53,454 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - Connecting...
+2018-04-13 15:43:54,267 [INFO] from application in application-akka.actor.default-dispatcher-5 - onResponse... SUCCESS 200
+2018-04-13 15:43:54,834 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "Somehow our PM spoke about it .... As usual tweeted jus to go with the flow n complete his part of formality. Nothi\u2026 https:\/\/t.co\/PYh2qkzFwA",
+
+2018-04-13 15:43:55,540 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @iamhamzaabbasi: I agree that Rape is a global issue, even in Pakistan we end up seeing a new tragedy almost everyday, but mainstream po\u2026",
+
+2018-04-13 15:43:55,540 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "I agree that Rape is a global issue, even in Pakistan we end up seeing a new tragedy almost everyday, but mainstrea\u2026 https:\/\/t.co\/2vID6iVs3j","display_text_range":[0,140],
+
+2018-04-13 15:43:56,368 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @RahulGandhi: Dear Prime Minister,\n\nThank you for breaking your long silence. \n\nYou said \u201cour daughters will get justice\u201d.  \n\nIndia want\u2026",
+
+2018-04-13 15:43:56,377 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @ajplus: A right-wing mob surrounded a mosque in India and threatened Muslims. It's not the first time. https:\/\/t.co\/jzNLmeUoLg",
+
+2018-04-13 15:43:57,476 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @YTabuah: @jhopepapiii @xylekookie Thanks for this. We are a big fandom made up of all different kinda of ppl and it\u2019s good to address a\u2026",
+
+2018-04-13 15:43:57,493 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "@jhopepapiii @xylekookie Thanks for this. We are a big fandom made up of all different kinda of ppl and it\u2019s good t\u2026 https:\/\/t.co\/lkqPOA4gkq","display_text_range":[25,140],
+
+2018-04-13 15:43:57,562 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @trendinaliaIN: #GallantSuriyaBdayin100D just started trending with 23972 tweets. More trends at https:\/\/t.co\/LZ0lSnKin9 #trndnl",
+
+2018-04-13 15:43:57,562 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "#GallantSuriyaBdayin100D just started trending with 23972 tweets. More trends at https:\/\/t.co\/LZ0lSnKin9 #trndnl",
+
+2018-04-13 15:43:58,106 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @crimesofbrits: 99 years ago today the Jallianwala Bagh massacre was carried out in India. More than 1000 people were murdered as Britis\u2026",
+
+2018-04-13 15:43:58,106 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "99 years ago today the Jallianwala Bagh massacre was carried out in India. More than 1000 people were murdered as B\u2026 https:\/\/t.co\/h4HhIX9QBp","display_text_range":[0,140],
+
+2018-04-13 15:43:58,126 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @VedrunaValencia: \ud83d\ude4b\u200d\u2640\ufe0f\u00bfQuieres participar en el SORTEO de una camiseta solidaria 17-18? Para poder hacerlo \ud83d\udc49https:\/\/t.co\/9GhfOo8214 \nEl\u2026",
+
+2018-04-13 15:43:58,507 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @AnilKapoor: Congratulations on the Gold Sushil Kumar!! It\u2019s a day of memorable victories for India! \n#GC2018\u00a0 #GC2018Wrestling https:\/\/\u2026",
+
+2018-04-13 15:43:58,514 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "@Aashuto22658154 A right-wing mob surrounded a mosque in India and threatened Muslims. It's not the first time. \nIn\u2026 https:\/\/t.co\/1FcNAno6eD","display_text_range":[17,140],
+
+2018-04-13 15:44:00,860 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "porn stars of india masturbate sexy https:\/\/t.co\/QCjcJiUqwa",
+
+2018-04-13 15:44:01,270 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @aleemudasir: This is heartbreaking!\nThe attack on Asifa is not an isolated incident. Please remember that Gujjar-Bakarwals have been li\u2026",
+
+2018-04-13 15:44:01,288 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "\"They lost everything, and we too are thinking of migrating from this place,\" Family of Asifa moves out of their ho\u2026 https:\/\/t.co\/lhf8pt8Phl",
+
+2018-04-13 15:44:01,784 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "@byalexgreen :P https:\/\/t.co\/DEDTlnPTMH","display_text_range":[0,15],
+
+2018-04-13 15:44:01,784 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @jigneshmevani80: This must raise a few eyebrows for there is one monster roaming around in this country with kali dadhi\nhttps:\/\/t.co\/hk\u2026",
+
+2018-04-13 15:44:01,799 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @shivanibazaz: A hindu man with tears in his eyes and candle in his hands says to a group of hijab clad women: ye politician log hum ko\u2026",
+
+2018-04-13 15:44:01,876 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @SauravDatta29: Why would you use the coy euphemism \"irresponsible\", @IndiaToday ? His statement was laden with perversity and Islamopho\u2026",
+
+2018-04-13 15:44:02,085 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "Panasonic Unveils AI-Based 'Arbo Hub' in India.. https:\/\/t.co\/0hTcBo4C6i",
+
+2018-04-13 15:44:02,303 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "#PMSaveHindusOfJammu  #JusticeForAshifa Agreed girl gt killed bt by whom did ny1 do ground reporting #mehboobamufti\u2026 https:\/\/t.co\/oSdMyk4n0E","display_text_range":[0,140],
+
+2018-04-13 15:44:02,363 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @sanjivbhatt: Asifa is India's Zainab. Only difference is that no Pakistani marched for the rapist of Zainab. No Pakistani chanted \"Paki\u2026",
+
+2018-04-13 15:44:03,300 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @ruq18x: Absolutely fucking vile. Pretty sure they also set her alight whilst she was still alive. Poor soul died with 80% burns in hosp\u2026",
+
+2018-04-13 15:44:03,314 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "India: DNA tests confirm 8-year-old #Asifa Bano was held captive in a Hindu temple, sedated and raped by multiple H\u2026 https:\/\/t.co\/nJUBUoLPJO","display_text_range":[0,140],
+
+2018-04-13 15:44:04,016 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @ruq18x: Absolutely fucking vile. Pretty sure they also set her alight whilst she was still alive. Poor soul died with 80% burns in hosp\u2026",
+
+2018-04-13 15:44:04,020 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "Absolutely fucking vile. Pretty sure they also set her alight whilst she was still alive. Poor soul died with 80% b\u2026 https:\/\/t.co\/yINa0DsnOl","display_text_range":[0,140],
+
+2018-04-13 15:44:04,349 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @TheMcBang: How can you do such inhumane things to an innocent child as an aim to terrorize a whole religious group.. torture and hang t\u2026",
+
+2018-04-13 15:44:04,349 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "India: DNA tests confirm 8-year-old #Asifa Bano was held captive in a Hindu temple, sedated and raped by multiple H\u2026 https:\/\/t.co\/nJUBUoLPJO","display_text_range":[0,140],
+
+2018-04-13 15:44:04,412 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "Titillate your taste buds on the streets of Old Delhi\nFrom USD: 92.00\n\nBook now: https:\/\/t.co\/7fMudXU0If\n#Delhi\u2026 https:\/\/t.co\/4bG0TLyEAQ","display_text_range":[0,140],
+
+2018-04-13 15:44:04,852 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @RitaG74: 1\nRohingya terror suspect and UK citizen Samuin Rehman was arrested by NIA and he revealed Al-Queda's India plan and how he st\u2026",
+
+2018-04-13 15:44:06,069 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "@katyperry will you ever be in India again?",
+
+2018-04-13 15:44:06,298 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @aajtak: \u0907\u0902\u0921\u093f\u092f\u093e \u0917\u0947\u091f \u092a\u0930 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0915\u0947 \u0915\u0948\u0902\u0921\u0932 \u092e\u093e\u0930\u094d\u091a \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0907\u0924\u0928\u0940 \u092d\u0940\u0921\u093c \u0926\u093f\u0916\u0940 \u0915\u093f 2012 \u092e\u0947\u0902 \u0939\u0941\u090f \u0928\u093f\u0930\u094d\u092d\u092f\u093e \u0915\u093e\u0902\u0921 \u0915\u0940 \u092d\u0940 \u092f\u093e\u0926 \u0924\u093e\u091c\u093e \u0939\u094b \u0917\u0908.\nhttps:\/\/t.co\/F\u2026",
+
+2018-04-13 15:44:06,298 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @RitaG74: 1\nRohingya terror suspect and UK citizen Samuin Rehman was arrested by NIA and he revealed Al-Queda's India plan and how he st\u2026",
+
+2018-04-13 15:44:06,302 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "PM Modi breaks silence over Kathua, Unnao gang rapes, says no criminal shall be spared https:\/\/t.co\/QbwUXk9TAy\n1211\u2026 https:\/\/t.co\/Ke8CbVXgyM",
+
+2018-04-13 15:44:06,597 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @MaheshJoshi_MJ: Irony of Secular India!\n\nIts Highly Disappointing\nthat Billion Hindus Sentiments are being Systematically attacked by U\u2026",
+
+2018-04-13 15:44:06,597 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "Wow!! https:\/\/t.co\/3ZqLpDl15q","display_text_range":[0,5],
+
+2018-04-13 15:44:08,023 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "@MIB_India @smritiirani how can a news shop publish the name of a child Rape victim? This is against supreme court\u2026 https:\/\/t.co\/7iezAOKAUO",
+
+2018-04-13 15:44:08,111 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @ashoswai: Is India still a democracy? https:\/\/t.co\/tsdJdVTmH7 via @ndtv",
+
+2018-04-13 15:44:08,141 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @santhobliss: This is Sanjay singh who won Gold medals for India showing his respect to the cow whose milk he had been having which he b\u2026",
+
+2018-04-13 15:44:08,897 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @RahulGandhi: Dear Prime Minister,\n\nThank you for breaking your long silence. \n\nYou said \u201cour daughters will get justice\u201d.  \n\nIndia want\u2026",
+
+2018-04-13 15:44:08,938 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @crimesofbrits: 99 years ago today the Jallianwala Bagh massacre was carried out in India. More than 1000 people were murdered as Britis\u2026",
+
+2018-04-13 15:44:08,962 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @ShatruganSinha: My best wishes to our sports stars. I hope, wish and pray the good results keep coming. Long live and Congratulations o\u2026",
+
+2018-04-13 15:44:09,152 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "https:\/\/t.co\/NMycniyjQN",
+
+2018-04-13 15:44:09,573 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @sankrant: The official #NyTimes correspondent to India RTs vile hate speech. Every article of his follows that trend. What would China\u2026",
+
+2018-04-13 15:44:10,078 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "@htTweets @narendramodi #Modi the man who will divide India after the British with Religious Politics.","display_text_range":[24,102],
+
+2018-04-13 15:44:10,097 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "Take Steps to Ensure Privacy in Biometric ID Projects, IMF Tells India https:\/\/t.co\/AEQcuqOQs4 via @thewire_in",
+
+2018-04-13 15:44:10,276 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @UrvashiSareen: Chutia terrorist modi ruined India \ud83c\uddee\ud83c\uddf3- US reviewing trade preferences for India https:\/\/t.co\/3MJEQ1AMa1",
+
+2018-04-13 15:44:10,298 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @SaffronWatch: Indian gang kidnap eight-year-old Muslim girl, rape her, bludgeon and strangle her to death in a Hindu temple to 'scare a\u2026",
+
+2018-04-13 15:44:10,375 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @BoutsPro: Young Junior High School Athletes set benchmark of Very HIGH technical standard that shall be thrilling all at the upcoming C\u2026",
+
+2018-04-13 15:44:10,805 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "Force India has \"fundamental\" problem with 2018 F1 car https:\/\/t.co\/QyzPyVCACX",
+
+2018-04-13 15:44:11,206 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @sankrant: @smritiirani Why does a #NyTimes correspondent who openly supports separatists still enjoy an India Visa? Grow a spine GOI.\n@\u2026",
+
+2018-04-13 15:44:11,605 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @nytimesworld: In India, the rape and murder of an 8-year-old girl has led to protests by Hindu nationalists \u2014 coming to the defense of\u2026",
+
+2018-04-13 15:44:11,621 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "In India, the rape and murder of an 8-year-old girl has led to protests by Hindu nationalists \u2014 coming to the defen\u2026 https:\/\/t.co\/wxJZD6jNTH",
+
+2018-04-13 15:44:12,441 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "naked neighbors and friends wives and girlfriends sexiest nude girls of india https:\/\/t.co\/4jm0kkWNjb",
+
+2018-04-13 15:44:12,456 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "What happening in india, there's no humanity. 8yrs old girl raped nd murdered. #ShameOnUS And the #Leaders who prot\u2026 https:\/\/t.co\/xYXVNdtM84",
+
+2018-04-13 15:44:13,150 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @amit_tomar_bjp: \u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940 \u0915\u0932 \u0938\u0947 \u092f\u0939 \u0938\u094b\u0902\u091a \u0938\u094b\u0902\u091a \u0915\u0947 \u092a\u0930\u0947\u0936\u093e\u0928 \u0939\u0948 \u0915\u0940,\n ~\u092d\u093e\u0930\u0924 \u092c\u0902\u0926 ~\u0915\u0948\u0938\u0947 \u0939\u094b\u0924\u093e \u0939\u0948 ??\nIndia Gate \u092e\u0947 \u0924\u094b \u0926\u0930\u0935\u093e\u091c\u0947 \u0939\u0948 \u0939\u0940 \u0928\u0939\u0940\u0902",
+
+2018-04-13 15:44:13,462 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @RahulGandhi: Mr Prime Minister, your silence is unacceptable. \n\n1. What do YOU think about the growing violence against women &amp; childre\u2026",
+
+2018-04-13 15:44:13,980 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "\u092e\u0939\u093e\u092e\u093e\u0928\u0935 \u0921\u0949. \u092c\u093e\u092c\u093e\u0938\u093e\u0939\u0947\u092c \u0906\u0902\u092c\u0947\u0921\u0915\u0930  \u092f\u093e\u0902\u091a\u094d\u092f\u093e \u091c\u092f\u0902\u0924\u0940\u091a\u094d\u092f\u093e \u0924\u092e\u093e\u092e \u0938\u0902\u0935\u093f\u0927\u093e\u0928\u092a\u094d\u0930\u0947\u092e\u0940 \u092d\u093e\u0930\u0924\u0940\u092f\u093e\u0902\u0928\u093e \u0939\u093e\u0930\u094d\u0926\u093f\u0915 \u0936\u0941\u092d\u0947\u091a\u094d\u091b\u093e!        One of d Ma\u2026 https:\/\/t.co\/vSDs1qfOzS","display_text_range":[0,140],
+
+2018-04-13 15:44:14,387 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "@PMOIndia \u092e\u0928 \u0915\u0940 \u092c\u093e\u0924 \u0924\u094b \u092c\u0939\u0941\u0924 \u0938\u0941\u0928\u0932\u093f\u092f\u093e \u0938\u093e\u092c\nhttps:\/\/t.co\/C3AOWRmwB9\n\nhttps:\/\/t.co\/9j8Sy6utTx","display_text_range":[10,88],
+
+2018-04-13 15:44:14,898 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @ShatruganSinha: Athletics mein khul gayaa khaataa, Day 1 in Wrestling and India ko hai sirf jitnaa aataa. I am loving the #TeamIndia pe\u2026",
+
+2018-04-13 15:44:14,904 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "#SpeakUp https:\/\/t.co\/Zhkt5FYdDE","display_text_range":[0,8],
+
+2018-04-13 15:44:14,904 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "RT @noconversion: In 1813 East India Company declared Hindu religion as barbaric.. and started a 40 year program to build churches all acro\u2026",
+
+2018-04-13 15:44:15,196 [INFO] from application in helloakka-akka.actor.default-dispatcher-9 - "\u0915\u093e\u0938\u0917\u0902\u091c \u0938\u0947 \u0938\u093f\u092a\u093e\u0939\u0940 \u0926\u0947\u0935 \u0914\u0930 \u0938\u092c\u0932\u0947\u0902\u0926\u094d\u0930 \u092c\u0928\u0947 \u092a\u0930\u094d\u0938\u0928\u0911\u092b \u0926 \u092e\u0902\u0925 \u092c\u0928\u0947 https:\/\/t.co\/e2tmOF3x60 #NEWS #UP #India",
+
+2018-04-13 15:44:15,256 [INFO] from play.core.server.AkkaHttpServer in pool-7-thread-3 - Stopping server...
