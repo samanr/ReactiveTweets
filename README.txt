@@ -2,7 +2,7 @@
 Application: Reactive Tweets
 
 
-Saman Rasool 
+SR
 Student Id: 4*****5
 
 
